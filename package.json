@@ -1,6 +1,7 @@
 {
   "name": "example-with-tailwindcss",
   "type": "module",
+  "homepage": "https://yury7412.github.io/solid3/",
   "scripts": {
     "dev": "vinxi dev",
     "build": "vinxi build",
